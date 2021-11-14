@@ -1,3 +1,9 @@
+# Status #
+
+This was forked from upstream to implement line directive support, which was added in a much
+more robust way than this proof of concept in version 1.7.0 of the upstream project, on
+branch feature/#55-lines.  Use that implementation rather than this POC, this fork is archived.
+
 # PackCC #
 
 ## Overview ##
